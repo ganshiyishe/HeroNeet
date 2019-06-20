@@ -52,4 +52,10 @@ steam_id:这些，都将是我们学生会有所作为的地方。改变华夏�
 
 steam_id:在今后的日子里，我，steam_id,一定会带领学生会蒸蒸日上，make Huaxialigong great again!!!
 
+干部A：恭喜你了！
+
+干部B：我早就知道你会当选了，怎么样，一会请客？
+
+steam_id:下次下次，
+
 ## 第一章
